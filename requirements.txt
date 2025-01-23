@@ -1,0 +1,18 @@
+# numpy>=1.22.0
+# tensorflow>=2.12.0
+# opencv-python>=4.7.0
+# tqdm>=4.65.0
+# PyQt5>=5.15.9
+# scikit-learn>=1.0.2
+# matplotlib>=3.7.0
+
+
+
+
+numpy
+tensorflow
+opencv-python
+tqdm
+PyQt5
+scikit-learn
+matplotlib
