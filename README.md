@@ -89,6 +89,6 @@ The GUI application provides a simple interface to:
 - matplotlib
 - tqdm
 
-## License
+## Source
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+The data used in this project is sourced from the Quick, Draw! dataset.
