@@ -1,4 +1,4 @@
-# Quick, Draw! Classifier
+# Doodle-Classifer!
 
 This project implements a machine learning model to classify hand-drawn sketches using the Quick, Draw! dataset. It includes data preprocessing, model training, evaluation, and a GUI application for testing the model.
 
